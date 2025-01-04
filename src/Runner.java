@@ -23,5 +23,7 @@ public class Runner {
         //yeni kodlar ekledim
         //versiyon 7
 
+        //github'ta commitledim.
+
     }
 }
